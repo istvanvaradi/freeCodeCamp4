@@ -1,0 +1,17 @@
+header {
+  font-size: 1.5rem;
+  color: black;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: thin;
+}
+
+
+section {
+  align-items: center;
+}
+.list-group {
+  width: 30%;
+  margin: 20px 0px 0px 0px;
+}
